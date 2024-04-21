@@ -7,7 +7,9 @@ footer: This is the end of the story. The source of this story is <a href='https
 view:
 # you can pick the location information from https://optgeo.github.io/relief
   car:
-    center: [21.91, 7.71]
+#    center: [21.91, 7.71]
+    center: [135.91, 38.71]
+
     zoom: 4.84
   lakes:
     center: [33.9, -3.15]
